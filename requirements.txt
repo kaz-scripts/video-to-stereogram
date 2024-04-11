@@ -1,5 +1,5 @@
-numpy==1.26.4
-opencv_python==4.9.0.80
-Pillow==10.3.0
-python_ffmpeg==2.0.10
-tqdm==4.66.2
+numpy
+opencv_python
+Pillow
+python_ffmpeg
+tqdm
