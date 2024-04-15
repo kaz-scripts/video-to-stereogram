@@ -1,5 +1,5 @@
 numpy
 opencv_python
 Pillow
-python_ffmpeg
+ffmpeg-python
 tqdm
